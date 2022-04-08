@@ -2081,7 +2081,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
     Toggle.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
     Toggle.Size = UDim2.new(0, 50, 0, 50)
     Toggle.Font = Enum.Font.Code
-    Toggle.Text = "R"
+    Toggle.Text = "IMZAA"
     Toggle.TextColor3 = Color3.fromRGB(255, 0, 0)
     Toggle.TextScaled = true
     Toggle.MouseButton1Down:connect(function()
@@ -2089,12 +2089,12 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
         game:GetService("VirtualInputManager"):SendKeyEvent(false,305,false,game)
     end)
     --------------------------------------------------------------------
-    local RenUi = library:AddWindow("Ren Hub | BF",Enum.KeyCode.RightControl)
+    local RenUi = library:AddWindow("IMZAA CRACK RenX | BLOX FRUITS",Enum.KeyCode.RightControl)
     --------------------------------------------------------------------
     local Main = RenUi:AddTab("Auto Farm","6026568198")
     local Combat = RenUi:AddTab("Combat","7251993295")
     local Stats = RenUi:AddTab("Stats","7040410130")
-    local Teleport = RenUi:AddTab("Teleport","6035190846")
+    local Teleport = RenUi:AddTab("TP TWEEN","6035190846")
     local Dungeon = RenUi:AddTab("Dungeon","7044284832")
     local DevilFruit = RenUi:AddTab("Devil Fruit","7044233235")
     local Shop = RenUi:AddTab("Shop","6031265976")
